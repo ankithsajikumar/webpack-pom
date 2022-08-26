@@ -1,10 +1,10 @@
 # webpack-pom
 #mvn clean install
-#maven frontend build
+# maven frontend build
 
 #DIR = webpack
-# npm run dev
-#development build
+# development build
+#npm run dev
 
-# npm run build
-#production build
+# production build
+#npm run build
