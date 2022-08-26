@@ -31,5 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
-webpack-pom/webpack/package-lock.json
-webpack-pom/webpack/node_modules/
+/webpack/package-lock.json
+/webpack/node_modules/
